@@ -5,3 +5,5 @@
 [![Coverage Status](https://coveralls.io/repos/gustavnikolaj/pgmock/badge.svg?branch=master)](https://coveralls.io/r/gustavnikolaj/pgmock?branch=master)
 
 A mock implementation of the pg module.
+
+[gitignore](.gitignore)
